@@ -1,0 +1,104 @@
+{
+    "region": [
+        {
+            "region": "Africa",
+            "pais": "Egipto",
+            "capital": "El Cairo",
+            "poblacion":"100.878.000",
+            "img": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Egipto.svg",
+            "id": 1
+        },
+        {
+            "region": "Africa",
+            "pais": "Costa de Marfil",
+            "capital": "Yamusukro",
+            "poblacion":"26.378.275",
+            "img": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Costa-de-Marfil.svg",
+            "id": 2
+        },
+        
+        {
+            "region": "America",
+            "pais": "Canada",
+            "capital": "Ottawa",
+            "poblacion":"38.246.108",
+            "img": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Canada.svg",
+            "id": 4
+        },
+        {
+            "region": "Asia",
+            "pais": "Afganistán",
+            "capital": "Kabul",
+            "poblacion":"34.269.000",
+            "img": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Afganistan.svg",
+            "id": 5
+        },
+        {
+            "region": "Oceanía",
+            "pais": "Australia",
+            "capital": "Canberra",
+            "poblacion":"25.694.0001",
+            "img": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Australia.svg",
+            "id": 9
+        },
+    
+        {
+            "region": "Europa",
+            "pais": "Alemania",
+            "capital": "Berlin",
+            "poblacion":"83.155.031",
+            "img": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Alemania.svg",
+            "id": 7
+        },
+        {
+            "region": "Europa",
+            "pais": "Francia",
+            "capital": "Paris",
+            "poblacion":"67.439.599",
+            "img": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Francia.svg",
+            "id": 8
+        },
+       
+        {
+            "region": "Oceanía",
+            "pais": "Nueva Zelanda",
+            "capital": "Wellington",
+            "poblacion":"5.087.000 ",
+            "img": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Nueva-Zelanda.svg",
+            "id": 10
+        },
+        {
+            "region": "America",
+            "pais": "Argentina",
+            "capital": "Buenos Aires",
+            "poblacion":"45.376.763",
+            "img": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Argentina.svg",
+            "id": 11
+        },
+        {
+            "region": "America",
+            "pais": "Estados Unidos",
+            "capital": "Washington D. C.",
+            "poblacion":"329.770.000",
+            "img": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Estados-Unidos.svg",
+            "id": 12
+        },
+        {
+            "region": "America",
+            "pais": "Chile",
+            "capital": "Santiago de Chile",
+            "poblacion":"19.458.000",
+            "img": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Chile.svg",
+            "id": 3
+        },
+        {
+            "region": "Asia",
+            "pais": "Japón",
+            "capital": "Tokio",
+            "poblacion":"125.836.021",
+            "img": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Japon.svg",
+            "id": 6
+        }
+
+    ]
+}

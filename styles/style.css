@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: small;
+}
+
+ body{
+    background-color: rgb(34, 34, 42);
+} 
+
+#select{
+    float: right;
+    color: white;
+    width: 250px;
+    height: 80px;
+}
+
+header{
+    background-color: rgb(63, 63, 87);
+    padding: 30px;
+}
+
+h1{
+    color: white;
+    margin-left: 100px;
+}
+
+#cont-bar{
+    padding: 30px;
+    margin: 0px 90px;
+}
+.barra{
+    padding: 15px;
+    border-radius: 7px;
+    background-color:rgb(63, 63, 87) ;
+}
+
+h2,h4{
+    color: white;
+}
+
+.list-group{
+    background-color: rgb(63, 63, 87);
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin: 30px;
+     } 
+.card{
+    background-color:rgb(63, 63, 87) ;
+    margin: 20px;
+}
+
+#buscar{
+    width: 120px;
+    height: 50px;
+    background-color: rgb(67, 67, 92);
+    color: white;
+    border-color:transparent;
+    border-radius: 15px;
+}
+
+.col-1{
+    color: white;
+     margin: 0;
+     font-size: 14px;
+}
+
+#fondo{
+    float: right;
+    padding: 10px;
+    margin-top: 0;
+    background-color: transparent;
+    color: white;
+    border-radius: 8px;
+}
+
+.opt{
+    background-color: black;
+    color:rgb(34, 34, 42);
+}
